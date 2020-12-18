@@ -5,4 +5,4 @@ Just write the name of desired book, including any language.
 ![screenshot of sample](https://i.imgur.com/69qTHHw.png)
 
 If you forgot the whole name, ***Book Search*** is capable of finding any book, even if you write the smallest part of the title.
-![screenshot of sample](https://i.imgur.com/v93KEz1.png)
+![screenshot of sample](https://i.imgur.com/ab6gxyP.png)
